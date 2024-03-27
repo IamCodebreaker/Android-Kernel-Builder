@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "subzero",
       "repo": "https://github.com/IamCodebreaker/SUBzero2",
-      "branch": "linage-21",
+      "branch": "S",
       "device": "rosemary"
     },
     "withKernelSU": false,
